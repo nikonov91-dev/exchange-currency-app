@@ -1,0 +1,6 @@
+{
+  "name": "Курс Валют НБУ",
+  "description": "Актуальний курс валют Національного банку України з інтерактивними графіками та оптимізованим кешуванням на бекенді.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
